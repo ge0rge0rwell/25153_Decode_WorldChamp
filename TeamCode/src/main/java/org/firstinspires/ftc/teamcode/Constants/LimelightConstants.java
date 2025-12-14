@@ -1,1 +1,3 @@
-public final class
+public final class LimelightConstants {
+
+}
