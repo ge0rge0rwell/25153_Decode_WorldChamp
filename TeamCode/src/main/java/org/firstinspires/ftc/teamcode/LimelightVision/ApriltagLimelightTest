@@ -1,3 +1,6 @@
+
+
+@Teleop(name="LimeTest")
 public class ApriltagLimelightTest extends OpMode{
 @Override
 public void init(){
