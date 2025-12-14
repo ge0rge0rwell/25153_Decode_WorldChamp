@@ -1,1 +1,1 @@
-private
+public final class
